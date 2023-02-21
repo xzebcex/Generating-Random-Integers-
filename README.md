@@ -17,14 +17,14 @@ This program does not require any installation. Simply copy and paste the code i
 ## Troubleshooting
 If the program is not running properly, ensure that you have the correct version of Python installed and that you have typed the code correctly.
 
-#Contributions
+## Contributions
 This program is a simple script and does not require any contributions.
 
-#License
+## License
 This program is open-sourced and free to use for any purpose.
 
-#Author
+## Author
 This program is created by me xzebcex.
 
-#Conclusion
+## Conclusion
 This program is a simple script that generates a random integer between 1 and 100 using the random module. It can be used as a basic template for programs that require random number generation.
